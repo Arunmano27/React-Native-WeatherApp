@@ -20,14 +20,13 @@ Android Studio (for Android development) or Xcode (for iOS development)
 
 Clone the repository:
 
-git clone [https://github.com/Arunmano27/React-Native-WeatherApp]
+git clone https://github.com/Arunmano27/React-Native-WeatherApp
+
 cd WeatherApp
 
 Install dependencies:
 
 npm install
-### or
-yarn install
 
 ⚙️ Environment Variables
 
@@ -58,7 +57,7 @@ To run Jest tests:
 
 npm test
 
-🏗️ ### Architecture Decisions
+### Architecture Decisions
 
 1️⃣ Component-Based Structure
 
