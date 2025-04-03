@@ -1,10 +1,10 @@
-##WeatherApp
+## WeatherApp
 
-A simple React Native Weather App that fetches weather data from an API and displays real-time weather conditions for different locations.
+A simple React Native Weather App that fetches weather data from an openweathermap API and displays real-time weather conditions for different locations.
 
 🚀 Getting Started
 
-Prerequisites
+# Prerequisites
 
 Ensure you have the following installed on your system:
 
@@ -20,7 +20,7 @@ Android Studio (for Android development) or Xcode (for iOS development)
 
 Clone the repository:
 
-git clone https://github.com/your-repo/WeatherApp.git
+git clone [https://github.com/Arunmano27/React-Native-WeatherApp]
 cd WeatherApp
 
 Install dependencies:
@@ -34,13 +34,12 @@ yarn install
 Create a .env file in the root of the project and add your API key:
 
 WEATHER_API_KEY=your_api_key_here
-WEATHER_ICON_PATH=https://openweathermap.org/img/wn/
 
 Then, make sure to load the environment variables in your app by installing react-native-dotenv:
 
 npm install react-native-dotenv
 
-📱 Running the App
+Running the App
 
 Android
 
@@ -83,6 +82,3 @@ API calls are wrapped in error handling functions for robustness.
 
 Type definitions for weather data are stored in a separate types.ts file.
 
-📄 License
-
-This project is licensed under the MIT License.
