@@ -1,4 +1,4 @@
-##WeatherApp##
+##WeatherApp
 
 A simple React Native Weather App that fetches weather data from an API and displays real-time weather conditions for different locations.
 
