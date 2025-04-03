@@ -1,10 +1,10 @@
-## WeatherApp
+# WeatherApp
 
 A simple React Native Weather App that fetches weather data from an openweathermap API and displays real-time weather conditions for different locations.
 
 🚀 Getting Started
 
-# Prerequisites
+## Prerequisites
 
 Ensure you have the following installed on your system:
 
@@ -26,7 +26,7 @@ cd WeatherApp
 Install dependencies:
 
 npm install
-# or
+### or
 yarn install
 
 ⚙️ Environment Variables
@@ -58,7 +58,7 @@ To run Jest tests:
 
 npm test
 
-🏗️ Architecture Decisions
+🏗️ ### Architecture Decisions
 
 1️⃣ Component-Based Structure
 
