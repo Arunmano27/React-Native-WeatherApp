@@ -61,7 +61,7 @@ npm test
 
 1️⃣ Component-Based Structure
 
-Separation of Concerns: Components are divided into components/, screens/, and context/.
+Separation of Concerns: Components are divided into components/, screens/ and context/.
 
 Reusable Components: UI elements like WeatherCard are kept in components/ for reuse.
 
